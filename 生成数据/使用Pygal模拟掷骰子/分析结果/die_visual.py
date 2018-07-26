@@ -16,4 +16,3 @@ for value in range(1, die.num_sides + 1):
     frequencies.append(frequency)
 
 print(frequencies)
-
